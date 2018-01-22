@@ -33,7 +33,7 @@
                                 <state key="normal" title="Button"/>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" red="0.96054772690000001" green="0.41589157049999997" blue="0.030815972222222224" alpha="0.64172196061643838" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.87261284722222221" green="0.41589157049999997" blue="0.030815972222222224" alpha="0.64172196061643838" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
