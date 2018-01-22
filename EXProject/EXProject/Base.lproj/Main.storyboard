@@ -42,7 +42,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" red="0.96054772692271861" green="0.41589157049909531" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.96054772692271861" green="0.41589157049909531" blue="1" alpha="0.5760648544520548" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="6Ie-yz-qcY" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="150" id="RtI-jP-tGh"/>
                             <constraint firstItem="6Ie-yz-qcY" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="66" id="Src-Qk-WwF"/>
@@ -128,6 +128,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="4XJ-a5-pU6"/>
+        <segue reference="1Jy-nw-or8"/>
     </inferredMetricsTieBreakers>
 </document>
