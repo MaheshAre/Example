@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         
         let a = 40
         
+        let b = 10
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
