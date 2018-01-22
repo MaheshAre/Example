@@ -90,7 +90,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
                                 <connections>
-                                    <segue destination="43z-Cy-8Rb" kind="show" id="3X3-n2-K40"/>
+                                    <segue destination="dic-jY-0Jl" kind="show" id="4XJ-a5-pU6"/>
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ceG-aN-yzT">
@@ -127,4 +127,7 @@
             <point key="canvasLocation" x="2103" y="31"/>
         </scene>
     </scenes>
+    <inferredMetricsTieBreakers>
+        <segue reference="4XJ-a5-pU6"/>
+    </inferredMetricsTieBreakers>
 </document>
