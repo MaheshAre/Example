@@ -71,7 +71,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="a1N-CY-1Ww" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="977" y="124"/>
+            <point key="canvasLocation" x="766" y="124"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="ZCt-f5-1EZ">
@@ -93,13 +93,20 @@
                                     <segue destination="43z-Cy-8Rb" kind="show" id="3X3-n2-K40"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ceG-aN-yzT">
+                                <rect key="frame" x="168" y="261" width="42" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" red="0.37114800347222221" green="0.72401258680555558" blue="0.54344308376312256" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5dG-sE-Api" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1830" y="124"/>
+            <point key="canvasLocation" x="1410" y="124"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="3fZ-JN-ucE">
@@ -117,7 +124,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="TnD-88-OI1" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2721" y="124"/>
+            <point key="canvasLocation" x="2103" y="31"/>
         </scene>
     </scenes>
 </document>
