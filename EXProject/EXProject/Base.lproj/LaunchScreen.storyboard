@@ -25,7 +25,9 @@
                                 <rect key="frame" x="138" y="301" width="98" height="64"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
-                                <state key="normal" title="Mahesh"/>
+                                <state key="normal" title="Mahesh">
+                                    <color key="titleColor" red="1" green="0.12599386170606397" blue="0.096729538835390372" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="d7m-Oh-dlG">
                                 <rect key="frame" x="164" y="392" width="46" height="30"/>
